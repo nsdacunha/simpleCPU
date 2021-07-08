@@ -1,2 +1,0 @@
-* simpleCPU
-A simple 16-bit CPU that I designed to be a learning experience.
